@@ -21,7 +21,7 @@ const handleConvert = () => {
 </script>
 
 <template>
-  <div class="bg-white p-8 rounded-xl shadow-md border border-gray-100">
+  <div class="bg-white p-8 rounded-xl shadow-md border border-gray-100 w-md">
     <h1 class="text-2xl font-bold text-center text-gray-800 mb-6">
       Conversor Moneda
     </h1>
